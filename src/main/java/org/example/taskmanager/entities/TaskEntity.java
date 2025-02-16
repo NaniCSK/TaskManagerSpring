@@ -1,6 +1,7 @@
 package org.example.taskmanager.entities;
 
 import lombok.Data;
+import lombok.Setter;
 
 import java.util.Date;
 
